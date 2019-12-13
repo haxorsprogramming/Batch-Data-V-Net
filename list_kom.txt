@@ -1,0 +1,36 @@
+Kom_1 : 
+  Ram -> 
+  Mobo_Type -> 
+  Hdd -> 
+  VGA_Type -> 
+
+Kom_2 : 
+  Ram -> 
+  Mobo_Type -> 
+  Hdd -> 
+  VGA_Type -> 
+
+Kom_3 : 
+  Ram -> 
+  Mobo_Type -> 
+  Hdd -> 
+  VGA_Type -> 
+
+Kom_4 : 
+  Ram -> 
+  Mobo_Type -> 
+  Hdd -> 
+  VGA_Type -> 
+
+Kom_5 : 
+  Ram -> 
+  Mobo_Type -> 
+  Hdd -> 
+  VGA_Type -> 
+
+Kom_6 : 
+  Ram -> 
+  Mobo_Type -> 
+  Hdd -> 
+  VGA_Type -> 
+
